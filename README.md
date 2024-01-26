@@ -2,7 +2,7 @@
 Quantifying the Impact of Frame Preemption on Combined TSN Shapers
 
 # Reference
-For reference of this project please use the following publication:
+To cite our work, please use the following BibTex code:
 
 @misc{debnath2024quantifying,
       title={Quantifying the Impact of Frame Preemption on Combined TSN Shapers}, 
@@ -13,9 +13,8 @@ For reference of this project please use the following publication:
       primaryClass={cs.NI}
 }
 
-arXiv preprint - https://arxiv.org/pdf/2401.13631.pdf 
-
-This is the code of the paper submitted to NOMS. 
+You will find our paper here - arXiv preprint - https://arxiv.org/pdf/2401.13631.pdf 
+Accepted for publication in IEEE NOMS/IM 2024. 
 
 There are three folders - inet, testcase_configuration, resources.
 
