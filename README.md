@@ -1,6 +1,19 @@
 # Quantifying_the_Impact_of_FP_on_CBS_with_GCL
 Quantifying the Impact of Frame Preemption on Combined TSN Shapers
 
+# Reference
+For reference of this project please use the following publication:
+
+@misc{debnath2024quantifying,
+      title={Quantifying the Impact of Frame Preemption on Combined TSN Shapers}, 
+      author={Rubi Debnath and Philipp Hortig and Luxi Zhao and Sebastian Steinhorst},
+      year={2024},
+      eprint={2401.13631},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI}
+}
+
+arXiv preprint - https://arxiv.org/pdf/2401.13631.pdf 
 
 This is the code of the paper submitted to NOMS. 
 
@@ -18,7 +31,6 @@ There are two folders in the in "testcase_configuration/testcases" -
 CBS_TAS folder contains the test cases for the CBS with GCL configuration.
 
 TAS_CBS_FP folder contains the test cases for the FP with CBS with GCL configuration.
-
 
 In this "resources" folder, we have kept the additional resources which we could not put in the paper due to space constraint.
 The module architecture block diagram is inside this folder. 
