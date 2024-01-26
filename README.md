@@ -4,6 +4,7 @@ Quantifying the Impact of Frame Preemption on Combined TSN Shapers
 # Reference
 To cite our work, please use the following BibTex code:
 
+```
 @misc{debnath2024quantifying,
       title={Quantifying the Impact of Frame Preemption on Combined TSN Shapers}, 
       author={Rubi Debnath and Philipp Hortig and Luxi Zhao and Sebastian Steinhorst},
@@ -12,6 +13,7 @@ To cite our work, please use the following BibTex code:
       archivePrefix={arXiv},
       primaryClass={cs.NI}
 }
+```
 
 You will find our paper here - arXiv preprint - https://arxiv.org/pdf/2401.13631.pdf 
 Accepted for publication in IEEE NOMS/IM 2024. 
